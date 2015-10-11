@@ -15,7 +15,7 @@
    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Interface-Digger.svg"><metadata
+   sodipodi:docname="Interface-Twiddler.svg"><metadata
      id="metadata446"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -32,11 +32,11 @@
      inkscape:window-height="973"
      id="namedview442"
      showgrid="false"
-     inkscape:zoom="0.75636023"
-     inkscape:cx="633.84961"
-     inkscape:cy="382.01217"
-     inkscape:window-x="24"
-     inkscape:window-y="37"
+     inkscape:zoom="1.0696549"
+     inkscape:cx="424.95444"
+     inkscape:cy="531.59312"
+     inkscape:window-x="19"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" /><g
      id="g5"
@@ -93,7 +93,7 @@
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90"><tspan
        id="tspan4772"
-       style="font-size:22.5px">SPECIFY TERMS &amp; KEYWORDS</tspan></text>
+       style="font-size:22.5px">ADD NEW TEXT SOURCE</tspan></text>
 <text
      x="568.021"
      y="108.13079"
@@ -102,7 +102,7 @@
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90"><tspan
        id="tspan4772-5"
-       style="font-size:22.5px">SELECT SOURCES TO DIG</tspan></text>
+       style="font-size:22.5px">EXISTING PROJECTS</tspan></text>
 <g
      id="Sidebar"
      transform="translate(-325.56769,7.0626164)"><g
@@ -320,30 +320,8 @@
        id="text392"
        style="font-weight:700;font-size:30px;font-family:'League Spartan';fill:#ffffff"
        y="296.44901"
-       x="291.616">WEB DIGGER</text>
+       x="291.616">TWIDDLER</text>
 </g><g
-     id="g420"
-     transform="matrix(0.651118,0.201892,-0.201892,0.651118,25.1067,22.103)"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90"><g
-       transform="matrix(0.71738419,-0.22243915,0.22243915,0.71738419,-335.76589,-23.401309)"
-       id="g266"
-       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41420996"><g
-         style="fill:#ffffff"
-         transform="matrix(-1,0,0,1,498.267,129.145)"
-         id="g268-3"><path
-           d="m 95.833,77.778 -5.702,-14.51 c -0.108,-0.216 -0.271,-0.4 -0.472,-0.534 0,0 -6.169,-3.938 -7.714,-5.789 C 80.55,55.273 79.167,51.389 77.631,49.38 77.166,48.77 75,48.611 73.611,50 c 0,0 -1.796,2.778 -2.778,2.778 -2.778,0 -3.278,-1.362 -4.439,-1.362 -1.116,0 -2.313,2.367 -2.505,2.75 l -2.53,6.121 -1.082,1.154 -5.243,-4.194 c -0.256,-0.203 -0.562,-0.304 -0.867,-0.304 -0.408,0 -0.811,0.179 -1.085,0.521 l -2.295,2.87 -9.18,-3.934 c -0.074,-0.375 -0.222,-0.739 -0.458,-1.07 l -6.427,-8.999 0,-11.609 c 0,-0.019 -0.004,-0.035 -0.005,-0.054 C 34.673,29.14 27.76,25 22.222,25 l -0.001,0.002 c -0.377,0 -0.76,0.073 -1.126,0.236 l -12.5,5.555 C 7.79,31.151 7.202,31.87 7.012,32.73 l -2.778,12.5 c -0.333,1.498 0.611,2.981 2.108,3.313 0.204,0.045 0.405,0.067 0.605,0.067 1.273,0 2.421,-0.88 2.708,-2.176 l 0.143,-0.644 3.396,1.455 0,11.347 -10.446,14.364 c -1.119,1.539 -0.787,3.688 0.734,4.822 l 92.351,0 z M 47.527,64.41 c -0.312,0.391 -0.391,0.917 -0.207,1.379 0.183,0.464 0.602,0.793 1.095,0.864 l 6.155,0.879 -1.792,1.913 c 0,0 -4.456,0.838 -5.556,1.389 -2.778,1.389 -2.515,2.328 -2.778,2.778 -1.215,2.083 -4.167,4.167 -4.167,4.167 l -7.657,0 c 0.85,-0.632 1.408,-1.636 1.408,-2.778 l 0,-13.891 c 0,-0.685 -0.203,-1.356 -0.583,-1.926 l -3.042,-4.564 4.918,2.108 1.307,1.831 c 0.542,0.759 1.396,1.164 2.263,1.164 0.559,0 1.123,-0.168 1.612,-0.517 0.073,-0.052 0.13,-0.116 0.197,-0.172 l 8.287,3.551 -1.46,1.825 z M 27.778,43.056 c 0.334,-0.51 0.825,-1.164 1.39,-1.874 l 0,6.039 c 0,0.579 0.181,1.144 0.517,1.614 l 2.527,3.539 -4.629,-1.984 -1.194,-1.791 0,-2.766 c 0.178,-0.755 0.964,-2.128 1.389,-2.777 z M 12.13,35.301 18.99,32.253 13.825,43.844 c -0.114,0.163 -0.211,0.339 -0.296,0.522 L 10.412,43.03 12.13,35.301 Z M 8.365,77.041 19.476,61.763 c 0.431,-0.594 0.664,-1.309 0.664,-2.042 l 0,-7.977 6.944,10.417 0,12.839 c 0,1.142 0.558,2.146 1.408,2.778 l -20.884,0 c 0.28,-0.207 0.541,-0.441 0.757,-0.737 z"
-           style="fill:#ffffff;fill-rule:nonzero"
-           id="path270-4"
-           inkscape:connector-curvature="0" /></g><g
-         style="fill:#ffffff"
-         transform="matrix(-1,0,0,1,498.267,129.145)"
-         id="g272"><circle
-           cx="31.25"
-           cy="18.75"
-           r="6.25"
-           style="fill:#ffffff"
-           id="circle274" /></g></g></g><g
      transform="translate(-144,-2)"
      id="g5320"
      inkscape:export-xdpi="90"
