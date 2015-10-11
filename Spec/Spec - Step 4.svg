@@ -16,7 +16,10 @@
    id="svg35356"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Spec - Step 4.svg">
+   sodipodi:docname="Spec - Step 4.svg"
+   inkscape:export-filename="/home/user/TransparencyToolkit/DesignAssets/Spec/Spec - Step 4.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs35358" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="517.91136"
+     inkscape:zoom="0.7"
+     inkscape:cx="611.30148"
      inkscape:cy="405.71429"
      inkscape:document-units="px"
      inkscape:current-layer="g322-4"
@@ -36,7 +39,7 @@
      inkscape:window-width="1784"
      inkscape:window-height="992"
      inkscape:window-x="89"
-     inkscape:window-y="88"
+     inkscape:window-y="37"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata35361">
@@ -120,7 +123,7 @@
              id="text120-6"
              style="font-size:24px;font-family:Arial;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41420996"
              y="283.43451"
-             x="549.98132">Tag based biltering</text>
+             x="549.98132">Tag based filtering</text>
         </g>
         <g
            style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41420996"
@@ -180,13 +183,6 @@
            height="38.255466"
            x="886.36005"
            y="1123.6501" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:1.41420996;stroke-dasharray:none;stroke-dashoffset:23.99999809;stroke-opacity:1"
-           id="rect4168"
-           width="147.32561"
-           height="307.40997"
-           x="1208.6348"
-           y="1309.4624" />
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:1.41420996;stroke-dasharray:none;stroke-dashoffset:23.99999809;stroke-opacity:1"
            id="rect4170"
