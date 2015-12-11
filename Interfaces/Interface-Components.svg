@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1050"
+   height="800"
+   id="svg3704"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1050 800"
+   sodipodi:docname="Interface-Components.svg">
+  <defs
+     id="defs3706" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="512"
+     inkscape:cy="382"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1640"
+     inkscape:window-height="960"
+     inkscape:window-x="196"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3709">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,32)">
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g5-7"
+       transform="matrix(3.8481969,0,0,1.0876033,-6.52674,-102.46733)">
+      <rect
+         id="rect7-1"
+         style="fill:#5b5b5b"
+         height="735.85999"
+         width="273.26599"
+         y="65.561996"
+         x="0.71100003" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g191"
+       transform="matrix(1,0,0,1.0130611,-330.7939,67.19007)">
+      <text
+         id="text193"
+         style="font-weight:700;font-size:14px;font-family:Arial;fill:#ffffff"
+         y="36.230999"
+         x="424.758">Show</text>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g4783"
+       transform="translate(-531.79856,-79.50448)">
+      <g
+         transform="matrix(0.21676,0,0,1.0130611,829.644,126.23685)"
+         id="g183"
+         style="fill:#ffffff">
+        <rect
+           x="477.418"
+           y="30.414"
+           width="276.75"
+           height="30.511999"
+           style="fill:#ffffff"
+           id="rect185" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-0.62607176,1588.86,193.45345)"
+         id="g187">
+        <path
+           d="m 612.574,27.089 5.371,10.742 -10.742,0 5.371,-10.742 z"
+           style="fill:#000000"
+           id="path189"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1,0,0,1.0130611,520.16,140.74794)"
+         id="g195">
+        <text
+           x="424.758"
+           y="36.230999"
+           style="font-weight:700;font-size:14px;font-family:Arial;fill:#000000"
+           id="text197">10</text>
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g199"
+       transform="matrix(1,0,0,1.0130611,76.03406,-262.58633)">
+      <text
+         id="text201"
+         style="font-weight:700;font-size:13px;font-family:'Source Sans Pro';fill:#cfcfcf"
+         y="296.44901"
+         x="291.616">MISC S<tspan
+   id="tspan203"
+   y="296.44901 296.44901"
+   x="329.797 336.77802">TY</tspan>
+LEGUIDE THINGS</text>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g230"
+       transform="translate(-227.42022,-211.10633)">
+      <text
+         id="text232"
+         style="font-weight:700;font-size:13px;font-family:'Source Sans Pro';fill:#a0a0a0"
+         y="296.44901"
+         x="291.616">FIL<tspan
+   id="tspan234"
+   y="296.44901"
+   x="307.46301">T</tspan>
+ERED B<tspan
+   id="tspan236"
+   y="296.44901"
+   x="355.43301">Y</tspan>
+</text>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g4749"
+       transform="translate(113.94306,-85.24923)">
+      <g
+         transform="matrix(0.845884,0,0,0.964583,-116.21759,15.666769)"
+         id="g206">
+        <rect
+           x="299.06799"
+           y="93.523003"
+           width="105.094"
+           height="36.175999"
+           style="fill:#ffffff"
+           id="rect208" />
+      </g>
+      <g
+         transform="translate(-143.15469,-167.64663)"
+         id="g210">
+        <text
+           x="291.616"
+           y="296.44901"
+           style="font-weight:700;font-size:16px;font-family:'Source Sans Pro';fill:#000000"
+           id="text212">GCHQ</text>
+      </g>
+      <g
+         transform="translate(-20.78519,-133.50463)"
+         id="g238">
+        <text
+           x="227.25101"
+           y="263.19101"
+           style="font-weight:700;font-size:18px;font-family:'Source Sans Pro';fill:#a5a5a5"
+           id="text240">X</text>
+      </g>
+      <g
+         transform="matrix(1,0,0,0.542498,-164.16019,40.574369)"
+         id="g242">
+        <path
+           d="m 362.86,141.068 0,24.986"
+           style="fill:#d5cece;stroke:#a2a2a2;stroke-width:1.24000001px;stroke-linecap:round"
+           id="path244"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g4759"
+       transform="translate(-218.48883,-80.39972)">
+      <g
+         transform="matrix(1.78169,0,0,0.964583,-284.24019,15.666769)"
+         id="g246">
+        <rect
+           x="299.06799"
+           y="93.523003"
+           width="105.094"
+           height="36.175999"
+           style="fill:#ffffff"
+           id="rect248" />
+      </g>
+      <g
+         transform="translate(-36.30719,-167.64663)"
+         id="g250">
+        <text
+           x="291.616"
+           y="296.44901"
+           style="font-weight:700;font-size:16px;font-family:'Source Sans Pro';fill:#000000"
+           id="text252">Int<tspan
+   x="314.86401"
+   y="296.44901"
+   id="tspan254">e</tspan>
+rnal Pr<tspan
+   x="371.008 379.888 386.91199"
+   y="296.44901 296.44901 296.44901"
+   id="tspan256">oce</tspan>
+dur<tspan
+   x="419.664"
+   y="296.44901"
+   id="tspan258">e</tspan>
+s</text>
+      </g>
+      <g
+         transform="translate(187.06281,-132.50463)"
+         id="g260">
+        <text
+           x="227.25101"
+           y="263.19101"
+           style="font-weight:700;font-size:18px;font-family:'Source Sans Pro';fill:#a5a5a5"
+           id="text262">X</text>
+      </g>
+      <g
+         transform="matrix(1,0,0,0.542498,43.68781,41.574369)"
+         id="g264">
+        <path
+           d="m 362.86,141.068 0,24.986"
+           style="fill:#d5cece;stroke:#a2a2a2;stroke-width:1.24000001px;stroke-linecap:round"
+           id="path266"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g4774"
+       transform="translate(-483.37623,-25.13554)">
+      <g
+         transform="matrix(1.71713,0,0,1.17238,-881.20219,-162.09563)"
+         id="g214">
+        <rect
+           x="899.72998"
+           y="225.95399"
+           width="115.238"
+           height="30.207001"
+           style="fill:#333333"
+           id="rect216" />
+      </g>
+      <g
+         transform="translate(408.39981,-170.42363)"
+         id="g218">
+        <text
+           x="291.616"
+           y="296.44901"
+           style="font-weight:700;font-size:16px;font-family:'Source Sans Pro';fill:#ffffff"
+           id="text220">Sho<tspan
+   x="318.36801"
+   y="296.44901"
+   id="tspan222">w</tspan>
+ / Hide Columns</text>
+      </g>
+      <g
+         transform="matrix(0.851803,0,0,0.851803,50.79481,-164.86663)"
+         id="g268">
+        <path
+           d="m 750.731,336.504 -2.486,0 c -0.493,0 -0.893,0.4 -0.893,0.892 l 0,7.396 c 0,0.492 0.4,0.891 0.893,0.891 l 2.486,0 c 0.493,0 0.893,-0.399 0.893,-0.891 l 0,-7.396 c 0,-0.492 -0.4,-0.892 -0.893,-0.892 z m -7.007,0 -2.487,0 c -0.493,0 -0.892,0.4 -0.892,0.892 l 0,7.396 c 0,0.492 0.399,0.891 0.892,0.891 l 2.487,0 c 0.493,0 0.892,-0.399 0.892,-0.891 l 0,-7.396 c 0,-0.492 -0.399,-0.892 -0.892,-0.892 z m -7.007,0 -2.488,0 c -0.493,0 -0.892,0.4 -0.892,0.892 l 0,7.396 c 0,0.492 0.399,0.891 0.892,0.891 l 2.488,0 c 0.492,0 0.892,-0.399 0.892,-0.891 l 0,-7.396 c 0,-0.492 -0.4,-0.892 -0.892,-0.892 z m 0.892,-9.834 c 0,-0.492 -0.4,-0.892 -0.892,-0.892 l -2.488,0 c -0.493,0 -0.892,0.4 -0.892,0.892 l 0,7.287 c 0,0.492 0.399,0.891 0.892,0.891 l 2.488,0 c 0.492,0 0.892,-0.399 0.892,-0.891 l 0,-7.287 z m 6.115,-0.892 -2.487,0 c -0.493,0 -0.892,0.4 -0.892,0.892 l 0,7.287 c 0,0.492 0.399,0.891 0.892,0.891 l 2.487,0 c 0.493,0 0.892,-0.399 0.892,-0.891 l 0,-7.287 c 0,-0.492 -0.399,-0.892 -0.892,-0.892 z m 7.007,0 -2.486,0 c -0.493,0 -0.893,0.4 -0.893,0.892 l 0,7.287 c 0,0.492 0.4,0.891 0.893,0.891 l 2.486,0 c 0.493,0 0.893,-0.399 0.893,-0.891 l 0,-7.287 c 0,-0.492 -0.4,-0.892 -0.893,-0.892 z"
+           style="fill:#ffffff"
+           id="path270"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g131"
+       transform="matrix(1,0,0,1.0130611,7.86176,22.44003)">
+      <rect
+         id="rect133"
+         style="fill:#c61c1c"
+         height="34.917999"
+         width="218.375"
+         y="182.017"
+         x="33.882999" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g135"
+       transform="matrix(1,0,0,1.0130611,242.09976,23.39433)">
+      <rect
+         id="rect137"
+         style="fill:#ffc31c"
+         height="34.917999"
+         width="218.375"
+         y="182.017"
+         x="33.882999" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g143"
+       transform="matrix(1,0,0,1.0130611,7.86176,-29.22609)">
+      <rect
+         id="rect145"
+         style="fill:#3c88d7"
+         height="34.917999"
+         width="218.375"
+         y="182.017"
+         x="33.882999" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="g147"
+       transform="matrix(1,0,0,1.0130611,242.09976,-28.27178)">
+      <rect
+         id="rect149"
+         style="fill:#62c947"
+         height="34.917999"
+         width="218.375"
+         y="182.017"
+         x="33.882999" />
+    </g>
+  </g>
+</svg>
