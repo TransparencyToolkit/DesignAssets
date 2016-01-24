@@ -1,9 +1,47 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100px" height="100px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g>
-        <g id="download">
-            <path d="M39.6258,54.194C35.8352,54.194 32.9261,54.194 30.4733,54.194C27.9369,54.194 25.6596,55.6653 27.9369,58.0561C31.8573,62.1182 37.3977,67.9874 37.3977,67.9874C37.3977,67.9874 43.3161,73.9281 47.0095,77.5509C48.7175,79.39 51.5642,79.5739 53.8415,77.5509C57.686,73.7309 64.592,67.2518 64.592,67.2518C64.592,67.2518 69.7972,61.6577 73.4835,57.6883C74.9068,56.0331 73.1988,54.194 70.6724,54.194C67.9656,54.194 64.736,54.194 60.1538,54.194L60.1538,27.9968C60.1538,25.2371 57.9179,23 55.1584,23L44.6213,23C41.8624,23 39.6258,25.2482 39.6258,27.9968M79.9994,95C88.284,95 95,88.2906 95,79.9994L95,20.0006C95,11.716 88.2906,5 79.9994,5L20.0006,5C11.716,5 5,11.7094 5,20.0006L5,79.9994C5,88.284 11.7094,95 20.0006,95" style="fill:black;"/>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100px"
+   height="100px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="download.svg"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs11" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="7.6515625"
+     inkscape:cx="50.261385"
+     inkscape:cy="43.96637"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="download" /><g
+     id="g4"><g
+       id="download"><path
+         d="m 39.6258,54.194 -9.1525,0 c -2.5364,0 -4.8137,1.4713 -2.5364,3.8621 3.9204,4.0621 9.4608,9.9313 9.4608,9.9313 0,0 5.9184,5.9407 9.6118,9.5635 1.708,1.8391 4.5547,2.023 6.832,0 3.8445,-3.82 10.7505,-10.2991 10.7505,-10.2991 0,0 5.2052,-5.5941 8.8915,-9.5635 1.4233,-1.6552 -0.2847,-3.4943 -2.8111,-3.4943 l -10.5186,0 0,-26.1972 C 60.1538,25.2371 57.9179,23 55.1584,23 l -10.5371,0 c -2.7589,0 -4.9955,2.2482 -4.9955,4.9968 M 95,93.9994 95,6.0006 l -90,0 0,87.9988"
+         style="fill:#000000"
+         id="path7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccccscsssccccc" /></g></g></svg>
