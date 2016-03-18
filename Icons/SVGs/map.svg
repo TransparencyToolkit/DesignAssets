@@ -13,8 +13,8 @@
    viewBox="0 0 100 100"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="modified.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="map.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -35,20 +35,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1912"
+     inkscape:window-height="1003"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="2.0606924"
-     inkscape:cx="38.742327"
-     inkscape:cy="48.296556"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="6.5810442"
+     inkscape:cx="30.574383"
+     inkscape:cy="55.283263"
+     inkscape:window-x="4"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="compose" />
+     inkscape:current-layer="map" />
   <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title4">compose</title>
+     id="title4">map</title>
   <desc
      id="desc6">Created with Sketch.</desc>
   <defs
@@ -61,21 +61,15 @@
      fill-rule="evenodd"
      sketch:type="MSPage">
     <g
-       id="compose"
+       id="map"
        sketch:type="MSArtboardGroup"
        fill="#000000">
       <path
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 37.160156,7.7167969 C 42.740518,12.879015 48.012668,17.758562 52.265625,21.716797 l 41.005859,0 0,-14.0000001 z M 62.148438,30.914062 c 4.78479,4.451451 9.628207,8.940907 15.130859,14 l 15.992187,0 0,-14 z M 7.7304688,55.3125 l 0,14 23.3535152,0 -15.11914,-14 z m 0,24.041016 0,14 48.5761722,0 -14.378907,-14 z"
-         id="rect4137-9-65-1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccc" />
-      <path
-         d="M 19.506247,12.149964 76.093737,64.431174 63.973009,77.881073 7.3795668,25.602416 Z M 79.314111,67.023498 92.301395,90.884825 67.192533,80.47765 Z"
+         d="m 99.475,85.190535 0,5.1594 -30.338,9.347 0,-39.5074 14.2537,1.4419 z m -33,-25.3426 0,39.847 -31.8133,-6.933 0,-18.9416 15.1616,-10.5428 z m -35.713,13.9373 0,18.5677 L 0.20078627,99.689586 0.15614053,69.931422 15.945921,67.277535 z m 3.8997,-7.1843 0,-9.1445 12.7436,-29.606 19.0697,-3.2475 0,29.3314 -17.9735,3.6509 z m -3.8997,-0.1294 -13.4942,-5.8863 -17.06703373,2.2629 -0.0446467,-38.1649 16.38783043,4.1189 14.2181,30.5619 z m 68.713,7.6722 -10.9426,-18.4272 -19.3783,-1.6485 -0.0171,0.2194 0,-29.6865 30.338,7.419 z m -54.593,-60.0358 c 0,1.62 -0.301,3.177 -0.851,4.604 l -12.267,28.858 c 0,0 -12.097,-28.534 -12.24,-28.91 -0.543,-1.426 -0.916,-2.939 -0.916,-4.548 0,-7.1920001 5.879,-13.0250001 13.138,-13.0250001 7.257,0 13.136,5.833 13.136,13.0210001 z M 31.753,8.3259349 c -3.226,0 -5.84,2.5870001 -5.84,5.7820001 0,3.191 2.614,5.785 5.84,5.785 3.213,-0.001 5.831,-2.594 5.831,-5.785 0,-3.195 -2.61,-5.7820001 -5.831,-5.7820001 z"
          sketch:type="MSShapeGroup"
          id="path12"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc" />
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccsscscscs" />
     </g>
   </g>
 </svg>
