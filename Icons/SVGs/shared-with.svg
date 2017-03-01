@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>shared-with</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="shared-with" sketch:type="MSArtboardGroup" fill="#000000">
             <path d="M5.15551669,72.1346847 C1.85487887,65.4618877 0,57.9466214 0,49.9980001 C0,22.3843198 22.3883446,0 50.0006666,0 C77.6130137,0 100,22.3829865 100,49.9980001 C100,77.6130178 77.6130137,99.9973334 50.0006666,99.9973334 C32.342525,99.9973334 16.8207889,90.8429692 7.92462618,77.020292 C10.9207379,74.2122085 14.4407191,71.4451615 18.3316237,69.0354466 C33.4645201,59.5987024 44.1464478,63.5279851 44.1464478,63.5279851 L44.1464478,82.4478931 L81.9904386,50.788604 L44.2725694,17.2372903 L44.2725694,35.7041312 C44.2725694,35.7041312 24.3128142,39.4656143 13.7333296,56.2164592 C10.0198995,62.0960649 7.22247407,67.5413197 5.15551669,72.1346847 L5.15551669,72.1346847 Z" sketch:type="MSShapeGroup"></path>
