@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>star</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="star" sketch:type="MSArtboardGroup" fill="#000000">
             <polygon id="Star-1" sketch:type="MSShapeGroup" points="50 75 19.4351669 96.0688837 28.2725306 62.0344419 0.545061153 35.9311163 35.7175834 35.9655581 50 2 64.2824166 35.9655581 99.4549388 35.9311163 71.7274694 62.0344419 80.5648331 96.0688837 "></polygon>

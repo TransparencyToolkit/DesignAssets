@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="hashtag.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>routes</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.6315123"
+     inkscape:cx="30.896527"
+     inkscape:cy="51.878983"
+     inkscape:window-x="3"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text3005" />
+  <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">routes</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage">
+    <g
+       id="routes"
+       sketch:type="MSArtboardGroup">
+      <g
+         style="font-size:135px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:rsfs10;-inkscape-font-specification:rsfs10 Bold Italic"
+         id="text3005">
+        <path
+           d="m 75.760845,42.728302 -3.518147,15.292969 24.39406,0 0,13.579101 -27.313375,0 -5.763775,26.762696 -16.467927,0 5.83863,-26.762696 -14.521719,0 -5.68892,26.762696 -16.093656,0 5.539212,-26.762696 -17.8153033,0 0,-13.579101 20.7346183,0 3.518147,-15.292969 -24.2685781,0 0,-13.776855 27.0381841,0 5.763775,-26.8286137 16.393074,0 -5.763776,26.8286137 14.821135,0 5.838629,-26.8286137 16.093656,0 -5.838629,26.8286137 17.965012,0 0,13.776855 -20.884327,0 m -34.432937,15.292969 14.671426,0 3.518147,-15.292969 -14.671426,0 -3.518147,15.292969"
+           style="font-style:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="path3010"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
