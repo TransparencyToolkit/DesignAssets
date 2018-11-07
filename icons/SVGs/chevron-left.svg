@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg4566"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="chevron-left.svg">
+  <defs
+     id="defs4560">
+    <symbol
+       id="icon-chevron-left"
+       viewBox="0 0 21 28">
+      <title
+         id="title74950">chevron-left</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 4.8410812,1.2443354 2.6458333,3.4395833 4.8410812,5.6348312 c 0.1034521,0.1034521 0.1034521,0.2688167 0,0.3720042 L 4.1547521,6.6931646 c -0.1034521,0.1034521 -0.2688167,0.1034521 -0.3720042,0 L 0.71516875,3.6255854 c -0.10345208,-0.1034521 -0.10345208,-0.2688167 0,-0.3720042 L 3.7827479,0.18600208 C 3.8862,0.08255 4.0515646,0.08255 4.1547521,0.18600208 l 0.6863291,0.68632917 c 0.1034521,0.10345208 0.1034521,0.26881665 0,0.37200415 z"
+         id="path74952" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="20.241961"
+     inkscape:cy="45.434962"
+     inkscape:document-units="mm"
+     inkscape:current-layer="use90766-3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4563">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="use90766-3"
+       style="fill:#000000;stroke:none"
+       transform="matrix(2.5910324,0,0,2.5910324,3.4803831,275.77466)">
+      <title
+         id="title90814">chevron-left</title>
+      <path
+         style="stroke-width:0.29720601"
+         d="M 2.7481763,-0.60905599 -0.91680335,3.050771 2.7481763,6.7005163 3.936903,5.5115654 1.4709557,3.0456183 3.936903,0.57989485 Z m 4.3287936,0 L 3.4119902,3.050771 7.0769699,6.7005163 8.2656967,5.5115654 5.7997495,3.0456183 8.2656967,0.57989485 Z"
+         id="path90816"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

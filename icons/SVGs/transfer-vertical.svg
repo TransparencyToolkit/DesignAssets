@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458334 26.458333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="transfer-vertical.svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="symbol76240">
+      <title
+         id="title76228">Mail Send Receive</title>
+      <g
+         id="g76238">
+        <path
+           d="M9 7V6c0-.265-.093-.53-.28-.72l-3-3L5.437 2h-.875l-.282.28-3 3C1.094 5.47 1 5.736 1 6v1h1c.265 0 .53-.093.72-.28L5 4.437l2.28 2.28c.19.19.455.282.72.282h1z"
+           id="path76230" />
+        <path
+           d="M4 4v7h2V4H4z"
+           id="path76232" />
+        <path
+           d="M15 8v1c0 .265-.093.53-.28.72l-3 3-.283.28h-.874l-.282-.28-3-3C7.094 9.53 7 9.264 7 9V8h1c.265 0 .53.093.72.28L11 10.563l2.28-2.28c.19-.19.455-.282.72-.282h1z"
+           id="path76234" />
+        <path
+           d="M10 4v7h2V4h-2z"
+           id="path76236" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2119184"
+     inkscape:cx="27.547425"
+     inkscape:cy="72.573545"
+     inkscape:document-units="px"
+     inkscape:current-layer="g85101"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54167)">
+    <g
+       id="use85069"
+       style="fill:#000000;stroke:none"
+       transform="matrix(1.7427093,0,0,1.7427093,-1.4416843,268.85365)">
+      <title
+         id="title85091">Mail Send Receive</title>
+      <g
+         id="g85101">
+        <path
+           style="stroke-width:6.21409082"
+           d="M 28.445312 2.6328125 L 3.1386719 27.640625 L 3.1386719 37.628906 L 11.238281 37.628906 L 21.78125 26.037109 L 21.78125 62.484375 L 34.207031 62.484375 L 34.207031 26.029297 L 44.642578 37.623047 L 52.849609 37.623047 L 52.849609 27.640625 L 28.445312 2.6328125 z M 66.615234 39.279297 L 66.615234 75.726562 L 56.074219 64.134766 L 47.972656 64.134766 L 47.972656 74.121094 L 73.279297 99.128906 L 97.685547 74.121094 L 97.685547 64.138672 L 89.478516 64.138672 L 79.042969 75.734375 L 79.042969 39.279297 L 66.615234 39.279297 z "
+           transform="matrix(0.15182299,0,0,0.15182299,0.82726609,0.96861823)"
+           id="path85093" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106.66666"
+   height="106.66666"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="newspaper.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>news</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1364"
+     inkscape:window-height="743"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="3.0145313"
+     inkscape:cx="43.672316"
+     inkscape:cy="44.846315"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="news" />
+  <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">news</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <path
+       d="M 100,77.313294 C 100,83.484971 94.657,89 89.046,89 H 13.208 C 3.95,89 0,84.197702 0,74.33824 V 28.907732 c 0,0 0,-5.035637 4,-5.035637 1.4257812,0 9.82,0 9.82,0 v -7.836458 c 0,0 0,-5.035637 4.4925,-5.035637 26.494792,0 50.989584,3.6e-5 77.484375,0 C 100,10.999994 100,16.035637 100,16.035637 V 77.313294 Z M 13,31 H 7 V 72.120167 C 7,78.125493 8.2688394,81 9.880991,81 11.844418,81 13,78.125493 13,72.120167 V 31 Z M 83,41 H 59 V 68 H 83 M 90,24 H 27 v 7 H 90 M 33,72 H 50 V 68 H 33 m 0,-9 H 50 V 54 H 33 M 50,46 V 43.699034 41 H 33 v 5"
+       id="path-1"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     sketch:type="MSArtboardGroup"
+     id="news">
+    <mask
+       fill="white"
+       sketch:name="news"
+       id="mask-2">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use14"
+         xlink:href="#path-1" />
+    </mask>
+    <path
+       inkscape:connector-curvature="0"
+       id="use16"
+       d="M 100,79.188294 92.796,89 H 7.5829995 L 0,79.963241 V 24.058203 L 13.82,23.872095 V 10.410636 H 100 Z M 13,31 H 7 V 77.745168 L 9.880991,81 13,77.745168 Z m 71.875,10 h -24 v 27 h 24 M 90,24 H 27 v 7 H 90 M 31.125,72 H 53.75 V 66.900471 H 31.125 M 31.125,59 H 53.75 V 54 H 31.125 M 53.75,46 V 41 H 31.125 v 5"
+       style="fill:#000000"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

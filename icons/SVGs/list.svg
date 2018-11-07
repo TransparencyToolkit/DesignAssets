@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458334 26.458333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="list.svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="symbol76240">
+      <title
+         id="title76228">Mail Send Receive</title>
+      <g
+         id="g76238">
+        <path
+           d="M9 7V6c0-.265-.093-.53-.28-.72l-3-3L5.437 2h-.875l-.282.28-3 3C1.094 5.47 1 5.736 1 6v1h1c.265 0 .53-.093.72-.28L5 4.437l2.28 2.28c.19.19.455.282.72.282h1z"
+           id="path76230" />
+        <path
+           d="M4 4v7h2V4H4z"
+           id="path76232" />
+        <path
+           d="M15 8v1c0 .265-.093.53-.28.72l-3 3-.283.28h-.874l-.282-.28-3-3C7.094 9.53 7 9.264 7 9V8h1c.265 0 .53.093.72.28L11 10.563l2.28-2.28c.19-.19.455-.282.72-.282h1z"
+           id="path76234" />
+        <path
+           d="M10 4v7h2V4h-2z"
+           id="path76236" />
+      </g>
+    </symbol>
+    <symbol
+       id="icon-list"
+       viewBox="0 0 28 28">
+      <title
+         id="title70649">list</title>
+      <path
+         d="M4 20.5v3c0 0.266-0.234 0.5-0.5 0.5h-3c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h3c0.266 0 0.5 0.234 0.5 0.5zM4 14.5v3c0 0.266-0.234 0.5-0.5 0.5h-3c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h3c0.266 0 0.5 0.234 0.5 0.5zM4 8.5v3c0 0.266-0.234 0.5-0.5 0.5h-3c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h3c0.266 0 0.5 0.234 0.5 0.5zM28 20.5v3c0 0.266-0.234 0.5-0.5 0.5h-21c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h21c0.266 0 0.5 0.234 0.5 0.5zM4 2.5v3c0 0.266-0.234 0.5-0.5 0.5h-3c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h3c0.266 0 0.5 0.234 0.5 0.5zM28 14.5v3c0 0.266-0.234 0.5-0.5 0.5h-21c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h21c0.266 0 0.5 0.234 0.5 0.5zM28 8.5v3c0 0.266-0.234 0.5-0.5 0.5h-21c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h21c0.266 0 0.5 0.234 0.5 0.5zM28 2.5v3c0 0.266-0.234 0.5-0.5 0.5h-21c-0.266 0-0.5-0.234-0.5-0.5v-3c0-0.266 0.234-0.5 0.5-0.5h21c0.266 0 0.5 0.234 0.5 0.5z"
+         id="path70651" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5529796"
+     inkscape:cx="36.58935"
+     inkscape:cy="54.489695"
+     inkscape:document-units="px"
+     inkscape:current-layer="use88230"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54167)">
+    <g
+       id="use85069"
+       style="fill:#000000;stroke:none"
+       transform="matrix(1.7427093,0,0,1.7427093,-1.4416843,268.85365)">
+      <title
+         id="title85091">Mail Send Receive</title>
+      <g
+         id="g85101">
+        <g
+           id="use88230"
+           style="fill:#000000;stroke:none"
+           transform="matrix(0.38715534,0,0,0.38715534,4.1725855,4.1371815)">
+          <title
+             id="title88244">list</title>
+          <path
+             id="path88246"
+             d="m -1.8119323,19.69094 v 3.683677 c 0,0.326619 -0.2873267,0.613946 -0.613946,0.613946 h -3.6836764 c -0.3266193,0 -0.613946,-0.287327 -0.613946,-0.613946 V 19.69094 c 0,-0.326619 0.2873267,-0.613946 0.613946,-0.613946 h 3.6836764 c 0.3266193,0 0.613946,0.287327 0.613946,0.613946 z m 0,-9.114688 v 3.683676 c 0,0.326619 -0.2873267,0.613946 -0.613946,0.613946 h -3.6836764 c -0.3266193,0 -0.613946,-0.287327 -0.613946,-0.613946 v -3.683676 c 0,-0.326619 0.2873267,-0.6139457 0.613946,-0.6139457 h 3.6836764 c 0.3266193,0 0.613946,0.2873267 0.613946,0.6139457 z m 0,-9.1146882 v 3.6836763 c 0,0.3266193 -0.2873267,0.6139461 -0.613946,0.6139461 h -3.6836764 c -0.3266193,0 -0.613946,-0.2873268 -0.613946,-0.6139461 V 1.4615638 c 0,-0.3266193 0.2873267,-0.61394603 0.613946,-0.61394603 h 3.6836764 c 0.3266193,0 0.613946,0.28732673 0.613946,0.61394603 z M 28.620514,19.69094 v 3.683677 c 0,0.326619 -0.287327,0.613946 -0.613946,0.613946 H 2.2208338 c -0.3266193,0 -0.613946,-0.287327 -0.613946,-0.613946 V 19.69094 c 0,-0.326619 0.2873267,-0.613946 0.613946,-0.613946 H 28.006568 c 0.326619,0 0.613946,0.287327 0.613946,0.613946 z m 0,-9.114688 v 3.683676 c 0,0.326619 -0.287327,0.613946 -0.613946,0.613946 H 2.2208338 c -0.3266193,0 -0.613946,-0.287327 -0.613946,-0.613946 v -3.683676 c 0,-0.326619 0.2873267,-0.6139457 0.613946,-0.6139457 H 28.006568 c 0.326619,0 0.613946,0.2873267 0.613946,0.6139457 z m 0,-9.1146882 v 3.6836763 c 0,0.3266193 -0.287327,0.6139461 -0.613946,0.6139461 H 2.2208338 c -0.3266193,0 -0.613946,-0.2873268 -0.613946,-0.6139461 V 1.4615638 c 0,-0.3266193 0.2873267,-0.61394603 0.613946,-0.61394603 H 28.006568 c 0.326619,0 0.613946,0.28732673 0.613946,0.61394603 z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+             style="stroke-width:1.22789204" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

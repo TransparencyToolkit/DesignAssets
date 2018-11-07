@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg84550"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="travel.svg">
+  <defs
+     id="defs84544">
+    <symbol
+       id="icon-plane"
+       viewBox="0 0 22 28">
+      <title
+         id="title70894">plane</title>
+      <path
+         d="M21.5 2.5c1 1 0 3.5-1.5 5l-2.516 2.516 2.5 10.875c0.047 0.187-0.031 0.391-0.187 0.516l-2 1.5c-0.078 0.063-0.187 0.094-0.297 0.094-0.031 0-0.063 0-0.109-0.016-0.141-0.031-0.266-0.109-0.328-0.25l-4.359-7.938-4.047 4.047 0.828 3.031c0.047 0.172 0 0.344-0.125 0.484l-1.5 1.5c-0.094 0.094-0.234 0.141-0.359 0.141h-0.031c-0.156-0.016-0.281-0.078-0.375-0.203l-2.953-3.938-3.938-2.953c-0.125-0.078-0.187-0.219-0.203-0.359s0.047-0.281 0.141-0.391l1.5-1.516c0.094-0.094 0.234-0.141 0.359-0.141 0.047 0 0.094 0 0.125 0.016l3.031 0.828 4.047-4.047-7.938-4.359c-0.141-0.078-0.234-0.219-0.266-0.375-0.016-0.141 0.031-0.313 0.141-0.422l2-2c0.125-0.109 0.313-0.172 0.469-0.125l10.391 2.484 2.5-2.5c1.5-1.5 4-2.5 5-1.5z"
+         id="path70896" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="55.482246"
+     inkscape:cy="32.115672"
+     inkscape:document-units="px"
+     inkscape:current-layer="use86588"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata84547">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="use86588"
+       style="fill:#000000;stroke:none"
+       transform="matrix(1.0818032,0,0,1.0818032,0.90570385,269.81818)">
+      <title
+         id="title86602">plane</title>
+      <path
+         id="path86604"
+         d="m 22.357493,1.9406773 c 1.056507,1.0565076 0,3.6977764 -1.584762,5.2825376 l -2.966997,2.9052321 2.01425,9.388221 -1.803681,4.066566 -4.951851,-8.650683 -4.8315685,4.028627 1.2986082,3.960683 L 7.9467304,24.506622 5.1304023,19.601179 -0.20739461,16.368345 1.3773667,14.766679 5.4615795,16.312347 9.3666765,11.233718 0.69908885,6.2322109 4.345339,4.7346215 l 9.842345,2.0486776 2.888328,-3.258917 c 1.486524,-1.6772539 4.22603,-2.64126874 5.282537,-1.5847613 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccccccccccccccscc"
+         style="stroke-width:1.05650747" />
+    </g>
+  </g>
+</svg>
