@@ -46,7 +46,7 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="document" />
+     inkscape:current-layer="use86723" />
   <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title4">document</title>
@@ -79,19 +79,13 @@
         <title
            id="title86737">Announcement</title>
         <path
+           style="stroke-width:2.6634326"
+           d="M -0.015625,8.4628906 -0.06835938,100.3457 23.414062,76.865234 106.46875,77.082031 V 8.4628906 Z m 75.013672,8.2382814 h 23.935547 v 23.935547 z"
+           transform="matrix(0.4081883,0,0,0.4081883,1.8775136,1.8778652)"
            id="path86739"
-           d="m 1.8715238,5.3323137 -0.021744,39.1385553 9.5850062,-9.585007 33.902277,0.08902 V 5.3323137 Z"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           style="stroke-width:1.08718204" />
+           sodipodi:nodetypes="cccccccccc" />
       </g>
-      <path
-         d="M 96.348997,12.464458 H 72.310991 l 24.038006,24.037986 z"
-         sketch:type="MSShapeGroup"
-         id="path12"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc"
-         style="fill:#ffffff;stroke-width:1.14119184" />
     </g>
   </g>
 </svg>
