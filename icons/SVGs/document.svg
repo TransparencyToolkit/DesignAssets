@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100px"
-   height="100px"
-   viewBox="0 0 100 100"
+   width="100"
+   height="100"
+   viewBox="0 0 93.750009 93.750009"
    version="1.1"
    id="svg2"
    inkscape:version="0.92.1 r15371"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>document</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="2.896852"
-     inkscape:cx="50.261385"
-     inkscape:cy="50"
+     inkscape:zoom="5.5559824"
+     inkscape:cx="50.335322"
+     inkscape:cy="49.926063"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="document" />
   <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
@@ -56,17 +57,18 @@
   <g
      id="Page-1"
      sketch:type="MSPage"
-     transform="matrix(0.93353641,0,0,0.93353641,2.8053753,4.0212496)"
+     transform="matrix(0.99547392,0,0,0.99547392,0.17984472,-5.9985461)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
        id="document"
        sketch:type="MSArtboardGroup"
        style="fill:#000000">
       <path
-         d="m 57.243839,30.958303 21.063948,0 -21.063948,-21.0639304 0,21.0639304 0,0 z m 22.97895,7.65965 -30.638605,0 0,-30.638616 -29.80699,1.217e-4 0,44.5039313 -7.659652,-0.0066 0,-52.15704495 47.041211,0 28.723714,28.72367095 0,70.851797 -75.764925,0 0,-47.380756 7.659652,-0.07052 0,39.791654 60.445595,0 0,-53.61761 0,0 z"
-         sketch:type="MSShapeGroup"
+         style="stroke-width:0.93959534"
+         d="M 12.117433,6.3342442 V 99.894295 H 83.306722 V 29.783451 L 59.857515,6.3342442 Z m 7.196528,7.1965288 H 50.860126 V 38.779112 H 76.108465 V 92.697769 H 19.313961 Z m 38.742693,1.80086 16.252679,16.25095 H 58.056654 Z"
          id="path12"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc" />
     </g>
   </g>
 </svg>
